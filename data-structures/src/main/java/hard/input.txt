@@ -1,2 +1,3 @@
-party;carrot
-XMJYAUZ;MZJAWXU
+ab*de,ab*
+ab*de,ab*de
+ab*de,ab\*de
